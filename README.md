@@ -1,4 +1,3 @@
-python4noobs
-============
+## python4noobs
 
-Learn python
+Notes, links, some code to learn python
