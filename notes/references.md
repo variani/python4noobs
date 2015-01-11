@@ -12,3 +12,7 @@
 ## IPython Notebooks
 
 * http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
+
+## People
+
+* [Jake VanderPlas](http://jakevdp.github.io/)
