@@ -1,3 +1,5 @@
 ## python4noobs
 
-Notes, links, some code to learn python
+Getting started
+
+* https://www.kaggle.com/wiki/GettingStartedWithPythonForDataScience
