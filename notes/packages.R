@@ -1,3 +1,0 @@
-## Tutorials
-
-* http://www.scotttorborg.com/python-packaging/minimal.html
