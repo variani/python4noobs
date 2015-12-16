@@ -12,6 +12,7 @@
 ## IPython Notebooks
 
 * http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
+* https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb
 
 ## People
 
