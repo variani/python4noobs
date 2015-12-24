@@ -1,9 +1,20 @@
 ## Python vs. R
 
 * http://www.quora.com/Which-is-better-for-data-analysis-R-or-Python
-* https://www.reddit.com/r/Python/comments/2bv2op/help_me_move_from_r_to_python/
 * http://yihui.name/en/2012/11/ipython-vs-knitr/
     * A [paper](http://www.cs.purdue.edu/homes/jv/pubs/ecoop12.pdf) from the first comment by F. Perez
+
+## Enter in Python
+
+From R
+
+* https://www.reddit.com/r/Python/comments/2bv2op/help_me_move_from_r_to_python/
+      * https://github.com/chrisclark/PythonForDataScience
+
+
+From kaggle
+
+* http://blog.kaggle.com/2012/07/02/up-and-running-with-python-my-first-kaggle-entry/
 
 ## Python + R
 
