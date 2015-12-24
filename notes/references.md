@@ -1,6 +1,13 @@
 ## Python vs. R
 
 * http://www.quora.com/Which-is-better-for-data-analysis-R-or-Python
+* https://www.reddit.com/r/Python/comments/2bv2op/help_me_move_from_r_to_python/
+* http://yihui.name/en/2012/11/ipython-vs-knitr/
+    * A [paper](http://www.cs.purdue.edu/homes/jv/pubs/ecoop12.pdf) from the first comment by F. Perez
+
+## Python + R
+
+* http://www.mango-solutions.com/wp/2015/12/integrating-python-and-r-part-iii-an-extended-example/
 
 ## Talks
 
