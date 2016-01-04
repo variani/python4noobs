@@ -3,6 +3,7 @@
 * http://www.quora.com/Which-is-better-for-data-analysis-R-or-Python
 * http://yihui.name/en/2012/11/ipython-vs-knitr/
     * A [paper](http://www.cs.purdue.edu/homes/jv/pubs/ecoop12.pdf) from the first comment by F. Perez
+* http://decisionstats.com/2015/08/11/why-r-data-scientists-should-try-out-python/
 
 ## Enter in Python
 
